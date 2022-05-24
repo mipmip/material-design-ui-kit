@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="264"
+   height="72"
+   viewBox="0 0 264 72"
+   fill="none"
+   version="1.1"
+   id="svg1021"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <mask
+     id="mask0_0_1"
+     maskUnits="userSpaceOnUse"
+     x="1256"
+     y="4298"
+     width="40"
+     height="40">
+    <circle
+       cx="1276"
+       cy="4318"
+       r="20"
+       fill="#c4c4c4"
+       id="circle486" />
+  </mask>
+  <mask
+     id="mask1_0_1"
+     maskUnits="userSpaceOnUse"
+     x="1256"
+     y="4475"
+     width="40"
+     height="40">
+    <circle
+       cx="1276"
+       cy="4495"
+       r="20"
+       fill="#c4c4c4"
+       id="circle573" />
+  </mask>
+  <mask
+     id="mask2_0_1"
+     maskUnits="userSpaceOnUse"
+     x="1256"
+     y="4652"
+     width="40"
+     height="40">
+    <circle
+       cx="1276"
+       cy="4672"
+       r="20"
+       fill="#c4c4c4"
+       id="circle636" />
+  </mask>
+  <defs
+     id="defs1019">
+    <filter
+       id="filter3_d_0_1"
+       x="428"
+       y="2576"
+       width="264"
+       height="72"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood964" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix966" />
+      <feOffset
+         dy="4"
+         id="feOffset968" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur970" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"
+         id="feColorMatrix972" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend974" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_1"
+         result="shape"
+         id="feBlend976" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653430155.3652766"
+     style="display:inline"
+     transform="translate(-428,-2576)">
+    <g
+       filter="url(#filter3_d_0_1)"
+       id="g2012">
+      <rect
+         x="432"
+         y="2576"
+         width="256"
+         height="64"
+         fill="#ffffff"
+         id="rect4210" />
+    </g>
+  </g>
+</svg>

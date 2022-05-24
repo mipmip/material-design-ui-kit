@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="178"
+   height="229"
+   viewBox="0 0 178 229"
+   fill="none"
+   version="1.1"
+   id="svg853"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <mask
+     id="mask2_0_1"
+     maskUnits="userSpaceOnUse"
+     x="1168"
+     y="1998"
+     width="80"
+     height="80">
+    <rect
+       x="1168"
+       y="1998"
+       width="80"
+       height="80"
+       rx="4"
+       fill="#c4c4c4"
+       id="rect116" />
+  </mask>
+  <mask
+     id="mask5_0_1"
+     maskUnits="userSpaceOnUse"
+     x="520"
+     y="2449"
+     width="168"
+     height="168">
+    <path
+       d="m 520,2453 c 0,-2.21 1.791,-4 4,-4 h 160 c 2.209,0 4,1.79 4,4 v 164 H 520 Z"
+       fill="#c4c4c4"
+       id="path183" />
+  </mask>
+  <defs
+     id="defs851">
+    <filter
+       id="filter5_ddd_0_1"
+       x="515"
+       y="2445"
+       width="178"
+       height="229"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood632" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix634" />
+      <feOffset
+         dy="2"
+         id="feOffset636" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur638" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"
+         id="feColorMatrix640" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend642" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix644" />
+      <feOffset
+         dy="3"
+         id="feOffset646" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur648" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"
+         id="feColorMatrix650" />
+      <feBlend
+         mode="normal"
+         in2="effect1_dropShadow_0_1"
+         result="effect2_dropShadow_0_1"
+         id="feBlend652" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix654" />
+      <feOffset
+         dy="1"
+         id="feOffset656" />
+      <feGaussianBlur
+         stdDeviation="2.5"
+         id="feGaussianBlur658" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
+         id="feColorMatrix660" />
+      <feBlend
+         mode="normal"
+         in2="effect2_dropShadow_0_1"
+         result="effect3_dropShadow_0_1"
+         id="feBlend662" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect3_dropShadow_0_1"
+         result="shape"
+         id="feBlend664" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653429002.6707895"
+     style="display:inline"
+     transform="translate(-515,-2445)">
+    <g
+       id="g8908">
+      <g
+         filter="url(#filter5_ddd_0_1)"
+         id="g5422">
+        <rect
+           x="520"
+           y="2449"
+           width="168"
+           height="218"
+           rx="4"
+           fill="#ffffff"
+           id="rect5420" />
+      </g>
+      <path
+         d="m 556,2650.35 -1.45,-1.32 c -5.15,-4.67 -8.55,-7.75 -8.55,-11.53 0,-3.08 2.42,-5.5 5.5,-5.5 1.74,0 3.41,0.81 4.5,2.09 1.09,-1.28 2.76,-2.09 4.5,-2.09 3.08,0 5.5,2.42 5.5,5.5 0,3.78 -3.4,6.86 -8.55,11.54 z"
+         fill="#000000"
+         fill-opacity="0.54"
+         id="path5424" />
+      <path
+         d="m 658,2645.08 c -0.76,0 -1.44,0.3 -1.96,0.77 l -7.13,-4.15 c 0.05,-0.23 0.09,-0.46 0.09,-0.7 0,-0.24 -0.04,-0.47 -0.09,-0.7 l 7.05,-4.11 c 0.54,0.5 1.25,0.81 2.04,0.81 1.66,0 3,-1.34 3,-3 0,-1.66 -1.34,-3 -3,-3 -1.66,0 -3,1.34 -3,3 0,0.24 0.04,0.47 0.09,0.7 l -7.05,4.11 c -0.54,-0.5 -1.25,-0.81 -2.04,-0.81 -1.66,0 -3,1.34 -3,3 0,1.66 1.34,3 3,3 0.79,0 1.5,-0.31 2.04,-0.81 l 7.12,4.16 c -0.05,0.21 -0.08,0.43 -0.08,0.65 0,1.61 1.31,2.92 2.92,2.92 1.61,0 2.92,-1.31 2.92,-2.92 0,-1.61 -1.31,-2.92 -2.92,-2.92 z"
+         fill="#000000"
+         fill-opacity="0.54"
+         id="path5426" />
+      <path
+         d="m 604,2631 c -5.52,0 -10,4.48 -10,10 0,5.52 4.48,10 10,10 5.52,0 10,-4.48 10,-10 0,-5.52 -4.48,-10 -10,-10 z m 1,15 h -2 v -6 h 2 z m 0,-8 h -2 v -2 h 2 z"
+         fill="#000000"
+         fill-opacity="0.54"
+         id="path5428" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 520,2449 h 168 v 168 H 520 Z"
+         id="path5430"
+         style="fill:#b1b1b1;fill-opacity:1" />
+      <text
+         fill="#ffffff"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="24px"
+         letter-spacing="0px"
+         id="text5434"
+         x="536"
+         y="2593.27"><tspan
+           x="536"
+           y="2593.27"
+           id="tspan5432">Headline</tspan></text>
+    </g>
+  </g>
+</svg>
