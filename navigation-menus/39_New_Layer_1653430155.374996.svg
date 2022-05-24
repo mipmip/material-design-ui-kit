@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   fill="none"
+   version="1.1"
+   id="svg1021"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <mask
+     id="mask0_0_1"
+     maskUnits="userSpaceOnUse"
+     x="1256"
+     y="4298"
+     width="40"
+     height="40">
+    <circle
+       cx="1276"
+       cy="4318"
+       r="20"
+       fill="#c4c4c4"
+       id="circle486" />
+  </mask>
+  <mask
+     id="mask1_0_1"
+     maskUnits="userSpaceOnUse"
+     x="1256"
+     y="4475"
+     width="40"
+     height="40">
+    <circle
+       cx="1276"
+       cy="4495"
+       r="20"
+       fill="#c4c4c4"
+       id="circle573" />
+  </mask>
+  <mask
+     id="mask2_0_1"
+     maskUnits="userSpaceOnUse"
+     x="1256"
+     y="4652"
+     width="40"
+     height="40">
+    <circle
+       cx="1276"
+       cy="4672"
+       r="20"
+       fill="#c4c4c4"
+       id="circle636" />
+  </mask>
+  <defs
+     id="defs1019" />
+  <g
+     id="New_Layer_1653430155.374996"
+     style="display:inline"
+     transform="translate(-432,-361)">
+    <g
+       id="g2866">
+      <rect
+         x="432"
+         y="361"
+         width="256"
+         height="256"
+         fill="#ffffff"
+         id="rect4560" />
+      <rect
+         x="687"
+         y="361"
+         width="1"
+         height="256"
+         fill="#e5e5e5"
+         id="rect4562" />
+    </g>
+  </g>
+</svg>

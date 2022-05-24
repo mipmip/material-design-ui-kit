@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="178"
+   height="255"
+   viewBox="0 0 178 255"
+   fill="none"
+   version="1.1"
+   id="svg853"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <mask
+     id="mask2_0_1"
+     maskUnits="userSpaceOnUse"
+     x="1168"
+     y="1998"
+     width="80"
+     height="80">
+    <rect
+       x="1168"
+       y="1998"
+       width="80"
+       height="80"
+       rx="4"
+       fill="#c4c4c4"
+       id="rect116" />
+  </mask>
+  <mask
+     id="mask5_0_1"
+     maskUnits="userSpaceOnUse"
+     x="520"
+     y="2449"
+     width="168"
+     height="168">
+    <path
+       d="m 520,2453 c 0,-2.21 1.791,-4 4,-4 h 160 c 2.209,0 4,1.79 4,4 v 164 H 520 Z"
+       fill="#c4c4c4"
+       id="path183" />
+  </mask>
+  <defs
+     id="defs851">
+    <filter
+       id="filter4_ddd_0_1"
+       x="115"
+       y="2445"
+       width="178"
+       height="255"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood594" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix596" />
+      <feOffset
+         dy="2"
+         id="feOffset598" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur600" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"
+         id="feColorMatrix602" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_1"
+         id="feBlend604" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix606" />
+      <feOffset
+         dy="3"
+         id="feOffset608" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur610" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"
+         id="feColorMatrix612" />
+      <feBlend
+         mode="normal"
+         in2="effect1_dropShadow_0_1"
+         result="effect2_dropShadow_0_1"
+         id="feBlend614" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix616" />
+      <feOffset
+         dy="1"
+         id="feOffset618" />
+      <feGaussianBlur
+         stdDeviation="2.5"
+         id="feGaussianBlur620" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
+         id="feColorMatrix622" />
+      <feBlend
+         mode="normal"
+         in2="effect2_dropShadow_0_1"
+         result="effect3_dropShadow_0_1"
+         id="feBlend624" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect3_dropShadow_0_1"
+         result="shape"
+         id="feBlend626" />
+    </filter>
+  </defs>
+  <g
+     id="New_Layer_1653429002.6703658"
+     style="display:inline"
+     transform="translate(-115,-2445)">
+    <g
+       filter="url(#filter4_ddd_0_1)"
+       id="g8488">
+      <path
+         d="m 120,2453 c 0,-2.21 1.791,-4 4,-4 h 160 c 2.209,0 4,1.79 4,4 v 236 c 0,2.21 -1.791,4 -4,4 H 124 c -2.209,0 -4,-1.79 -4,-4 z"
+         fill="#ffffff"
+         id="path5406" />
+      <path
+         d="m 120,2453 c 0,-2.21 1.791,-4 4,-4 h 160 c 2.209,0 4,1.79 4,4 v 164 H 120 Z"
+         fill="#c4c4c4"
+         id="path5408" />
+      <text
+         fill="#000000"
+         fill-opacity="0.87"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="20px"
+         font-weight="500"
+         letter-spacing="0.15px"
+         id="text5412"
+         x="136"
+         y="2672.99"><tspan
+           x="136"
+           y="2650.8401"
+           id="tspan5410">Headline</tspan></text>
+      <text
+         fill="#000000"
+         fill-opacity="0.6"
+         xml:space="preserve"
+         style="white-space:pre"
+         font-family="Roboto"
+         font-size="14px"
+         letter-spacing="0.25px"
+         id="text5416"
+         x="136"
+         y="2672.99"><tspan
+           x="136"
+           y="2672.99"
+           id="tspan5414">Body</tspan></text>
+    </g>
+  </g>
+</svg>
